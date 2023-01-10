@@ -1,0 +1,22 @@
+{
+  "name": "cliqueti/storage",
+  "description": "Pequeno Gerenciador de Uploads (Small Upload Manager)",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paulo",
+      "email": "paulo@cliqueti.com.br",
+      "homepage": "https://www.cliqueti.com.br"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "dflydev/apache-mime-types": "v1.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "CliqueTI\\Storage\\": "src"
+    }
+  }
+}

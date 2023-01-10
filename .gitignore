@@ -1,0 +1,10 @@
+# Folders #
+.idea
+_docker
+examples
+vendor
+
+# Files #
+composer.lock
+docker-compose.yml
+Dockerfile
